@@ -22,7 +22,7 @@ Esses dados são também são disponibilizados no site <a href ='https://basedos
 10. Quantos incidentes com fatalidades temos registro nos últimos anos?
 11. Como é a distribuição do mapa de calor dos acidentes distribuídos no mapa ?
 
-Há muito mais perguntas no projeto. Para simplificar, coloquei apenas duas aqui no ReadMe. Então, para um melhor entendimento dos dados, sugiro que leia o projeto completo.
+Há muito mais perguntas no projeto. Para simplificar, coloquei algumas aqui no ReadMe. Então, para um melhor entendimento dos dados, sugiro que leia o projeto completo.
 
 # Requisitos
 
