@@ -6,7 +6,7 @@
 
 Nesta apresentação, eu estarei utilizando dados abertos disponibilizados pela PRF - Polícia Rodoviária Federal. Tais arquivos conterão informações sobre ocorrências envolvendo veículos nas rodovias federais do Brasil de 2017 a 2021. Você pode acessar dados mais atualizados visitando <a href='https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-acidentes'>a página oficial de Dados Abertos de Acidentes </a>.
 
-Esses dados são também são disponibilizados no site <a href ='https://basedosdados.org/dataset/acidentes-de-transito?external_link=Dados'> base dos dados </a> que é  uma organização não-governamental sem fins lucrativos e open source que atua para universalizar o acesso a dados de qualidade. Nesse site tem a disponibilidade de vários tipos de dataset para uso.
+Esses dados  também são disponibilizados no site <a href ='https://basedosdados.org/dataset/acidentes-de-transito?external_link=Dados'> base dos dados </a> que é  uma organização não-governamental sem fins lucrativos e open source que atua para universalizar o acesso a dados de qualidade. Nesse site tem a disponibilidade de vários tipos de dataset para uso.
 
 # Perguntas a serem respondidas
 
